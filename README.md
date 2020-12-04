@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/586884246942253066/784259116037963836/Screenshot_1.png">
+  <img src="https://cdn.discordapp.com/attachments/586884246942253066/784324569305448488/Screenshot_1.png">
 </p>
 
 # advent-of-code-2020
